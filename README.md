@@ -1,4 +1,4 @@
-# Programming-Basics-with-CSharp
+# Programming Basics with C#
 SoftUni Course Programming Basics with C#
 
 Using Visual Studio with .NET Core 3.1 
