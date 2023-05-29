@@ -17,3 +17,14 @@ Using Visual Studio with .NET Core 3.1
     * P07. Projects Creation
     * P08. Pet Shop
     * P09. Yard Greening
+
+02. C# Basics First Steps In Coding - Exercise
+   * P01. USD to BGN
+   * P02. Radians to Degrees
+   * P03. Deposit Calculator
+   * P04. Vacation Books List
+   * P05. Supplies for School
+   * P06. Repainting
+   * P07. Food Delivery
+   * P08. Basketball Equipment
+   * P09. Fish Tank
