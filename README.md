@@ -18,6 +18,7 @@ Using Visual Studio with .NET Core 3.1
    * P08. Pet Shop
    * P09. Yard Greening
 
+   
 02. C# Basics First Steps In Coding - Exercise
    * P01. USD to BGN
    * P02. Radians to Degrees
