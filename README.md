@@ -1,2 +1,2 @@
-# Programming-Basics-with-C-
+# Programming-Basics-with-CSharp
 SoftUni Course Programming Basics with C#
