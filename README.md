@@ -5,7 +5,7 @@
 
 Using Visual Studio with .NET Core 3.1 
 
-01. CSharpBasics-FirstStepsInCoding
+01. C# Basics - First Steps In Coding
     * P01. HelloSoftUni
     * P02. Nums1to10
     * P03. Rectangle Area
