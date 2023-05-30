@@ -29,3 +29,12 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/02.%20CSharpBasics-FirstStepsInCoding-Exercise/P07.%20Food%20Delivery/Program.cs"> P07. Food Delivery </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/02.%20CSharpBasics-FirstStepsInCoding-Exercise/P08.%20Basketball%20Equipment/Program.cs"> P08. Basketball Equipment </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/02.%20CSharpBasics-FirstStepsInCoding-Exercise/P09.%20Fish%20Tank/Program.cs"> P09. Fish Tank </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/03.%20CSharp-Conditional-Statements-Lab"> 03. C# Conditional Statements - Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P01.%20Excellent%20Result/Program.cs"> P01. Excellent Result </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P02.%20Greater%20Number/Program.cs"> P02. Greater Number </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P03.%20Even%20or%20Odd/Program.cs"> P03. Even or Odd </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P04.%20Password%20Guess/Program.cs"> P04. Password Guess </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P05.%20Number%20100-200/Program.cs"> P05. Number 100-200 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P06.%20Speed%20Info/Program.cs"> P06. Speed Info </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P07.%20Area%20of%20Figures/Program.cs"> P07. Area of Figures </a>   
