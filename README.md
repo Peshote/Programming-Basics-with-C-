@@ -37,4 +37,14 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P04.%20Password%20Guess/Program.cs"> P04. Password Guess </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P05.%20Number%20100-200/Program.cs"> P05. Number 100-200 </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P06.%20Speed%20Info/Program.cs"> P06. Speed Info </a>
-   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P07.%20Area%20of%20Figures/Program.cs"> P07. Area of Figures </a>   
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/03.%20CSharp-Conditional-Statements-Lab/P07.%20Area%20of%20Figures/Program.cs"> P07. Area of Figures </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/04.%20CSharp-Conditional-Statements-Exercise"> 04. C# Conditional Statements - Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P01.%20Sum%20Seconds/Program.cs"> P01. Sum Seconds </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P02.%20Bonus%20Score/Program.cs"> P02. Bonus Score </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P03.%20Time%20%2B%2015%20Minutes/Program.cs"> P03. Time + 15 Minutes </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P04.%20Toy%20Shop/Program.cs"> P04. Toy Shop </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P05.%20Godzilla%20vs.%20Kong/Program.cs"> P05. Godzilla vs. Kong </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P06.%20World%20Swimming%20Record/Program.cs"> P06. World Swimming Record </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P07.%20Shopping/Program.cs"> P07. Shopping </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P08.%20Lunch%20Break/Program.cs"> P08. Lunch Break </a>
