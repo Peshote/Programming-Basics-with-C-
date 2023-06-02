@@ -1,7 +1,7 @@
 # <p align="center"> Programming Basics with C# <p>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg?sanitize=true" alt="Software University Logo"></a>
-# <p align="center"> SoftUni training Course Programming Basics with C# <p>
+# <p align="center"> <a href="https://softuni.bg/trainings/3989/programming-basics-with-csharp-january-2023"> SoftUni training Course Programming Basics with C#  </a><p>
 
 Using Visual Studio with .NET Core 3.1 
 
