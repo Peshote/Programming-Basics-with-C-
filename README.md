@@ -48,3 +48,17 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P06.%20World%20Swimming%20Record/Program.cs"> P06. World Swimming Record </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P07.%20Shopping/Program.cs"> P07. Shopping </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/04.%20CSharp-Conditional-Statements-Exercise/P08.%20Lunch%20Break/Program.cs"> P08. Lunch Break </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/05.%20CSharp-Nested-Conditional-Statements-Lab"> 05. C# Nested Conditional Statements - Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P01.%20Day%20of%20Week/Program.cs"> P01. Day of Week </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P02.Weekend%20or%20Working%20Day/Program.cs"> P02. Weekend or Working Day </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P03.%20Animal%20Type/Program.cs"> P03. Animal Type </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P04.%20Personal%20Titles/Program.cs"> P04. Personal Titles </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P05.%20Small%20Shop/Program.cs"> P05. Small Shop </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P06.%20Number%20in%20Range/Program.cs"> P06. Number in Range </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P07.Working%20Hours/Program.cs"> P07. Working Hours </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P08.Cinema%20Ticket/Program.cs"> P08. Cinema Ticket </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P09.%20Fruit%20or%20Vegetable/Program.cs"> P09. Fruit or Vegetable </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P10.%20Invalid%20Number/Program.cs"> P10. Invalid Number </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P11.%20Fruit%20Shop/Program.cs"> P11. Fruit Shop </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P12.%20Trade%20Commissions/Program.cs"> P12. Trade Commissions </a>
