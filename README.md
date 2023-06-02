@@ -62,3 +62,14 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P10.%20Invalid%20Number/Program.cs"> P10. Invalid Number </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P11.%20Fruit%20Shop/Program.cs"> P11. Fruit Shop </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/05.%20CSharp-Nested-Conditional-Statements-Lab/P12.%20Trade%20Commissions/Program.cs"> P12. Trade Commissions </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise"> 06. C# Nested Conditional Statements - Еxercise </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P01.%20Cinema/Program.cs"> P01. Cinema </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P02.%20Summer%20Outfit/Program.cs"> P02. Summer Outfit </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P03.%20New%20House/Program.cs"> P03. New House </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P04.%20Fishing%20Boat/Program.cs"> P04. Fishing Boat </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P05.%20Journey/Program.cs"> P05. Journey </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P06.%20Operations%20Between%20Numbers/Program.cs"> P06. Operations Between Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P07.%20Hotel%20Room/Program.cs"> P07. Hotel Room </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P08.%20On%20Time%20for%20the%20Exam/Program.cs"> P08. On Time for the Exam </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P09.%20Ski%20Trip/Program.cs"> P09. Ski Trip </a>
