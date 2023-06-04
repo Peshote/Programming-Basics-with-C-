@@ -73,3 +73,15 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P07.%20Hotel%20Room/Program.cs"> P07. Hotel Room </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P08.%20On%20Time%20for%20the%20Exam/Program.cs"> P08. On Time for the Exam </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/06.%20CSharp-Nested-Conditional-Statements-%D0%95xercise/P09.%20Ski%20Trip/Program.cs"> P09. Ski Trip </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/07.%20CSharp-For-Loop-Lab"> 07. C# For Loop - Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P01.%20Numbers%20from%201%20to%20100/Program.cs"> P01. Numbers from 1 to 100 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P02.%20Numbers%20N-1/Program.cs"> P02. Numbers N-1 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P03.%20Numbers%201%20to%20N%20with%20Step%203/Program.cs"> P03. Numbers 1 to N with Step 3 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P04.%20Even%20Powers%20of%202/Program.cs"> P04. Even Powers of 2 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P05.%20Character%20Sequence/Program.cs"> P05. Character Sequence </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P06.%20Vowels%20Sum/Program.cs"> P06. Vowels Sum </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P07.%20Sum%20Numbers/Program.cs"> P07. Sum Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P08.%20Number%20sequence/Program.cs"> P08. Number sequence </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P09.%20Left%20and%20Right%20Sum/Program.cs"> P09. Left and Right Sum </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P10.%20Odd%20Even%20Sum/Program.cs"> P10. Odd Even Sum </a>
