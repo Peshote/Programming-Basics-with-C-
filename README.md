@@ -85,3 +85,13 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P08.%20Number%20sequence/Program.cs"> P08. Number sequence </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P09.%20Left%20and%20Right%20Sum/Program.cs"> P09. Left and Right Sum </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/07.%20CSharp-For-Loop-Lab/P10.%20Odd%20Even%20Sum/Program.cs"> P10. Odd Even Sum </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/08.%20CSharp-For-Loop-Exercise"> 08. C# For Loop - Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P01.%20Numbers%20Ending%20in%207/Program.cs"> P01. Numbers Ending in 7 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P02.%20Half%20Sum%20Element/Program.cs"> P02. Half Sum Element </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P03.%20Histogram/Program.cs"> P03. Histogram </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P04.%20Clever%20Lily/Program.cs"> P04. Clever Lily </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P05.%20Salary/Program.cs"> P05. Salary </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P06.%20Oscars/Program.cs"> P06. Oscars </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P07.%20Trekking%20Mania/Program.cs"> P07. Trekking Mania </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P08.%20Tennis%20Ranklist/Program.cs"> P08. Tennis Ranklist </a>
