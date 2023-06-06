@@ -95,3 +95,13 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P06.%20Oscars/Program.cs"> P06. Oscars </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P07.%20Trekking%20Mania/Program.cs"> P07. Trekking Mania </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/08.%20CSharp-For-Loop-Exercise/P08.%20Tennis%20Ranklist/Program.cs"> P08. Tennis Ranklist </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/09.%20CSharp-While-Loop-Lab"> 09. C# While Loop - Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P01.%20Read%20Text/Program.cs"> P01. Read Text </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P02.%20Password/Program.cs"> P02. Password </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P03.%20Sum%20Numbers/Program.cs"> P03. Sum Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P04.%20Sequence%202k%2B1/Program.cs"> P04. Sequence 2k+1 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P05.%20Account%20Balance/Program.cs"> P05. Account Balance </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P06.%20Max%20Number/Program.cs"> P06. Max Number </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P07.%20Min%20Number/Program.cs"> P07. Min Number </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P08.%20Graduation/Program.cs"> P08. Graduation </a>
