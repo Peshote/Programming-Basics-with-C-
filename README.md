@@ -105,3 +105,12 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P06.%20Max%20Number/Program.cs"> P06. Max Number </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P07.%20Min%20Number/Program.cs"> P07. Min Number </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/09.%20CSharp-While-Loop-Lab/P08.%20Graduation/Program.cs"> P08. Graduation </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/10%20.CSharp-While-Loop-Exercise"> 10. C# While Loop - Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P01.%20Old%20Books/Program.cs"> P01. Old Books </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P02.%20Exam%20Preparation/Program.cs"> P02. Exam Preparation </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P03.%20Vacation/Program.cs"> P03. Vacation </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P04.%20Walking/Program.cs"> P04. Walking </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P05.%20Coins/Program.cs"> P05. Coins </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P06.%20Cake/Program.cs"> P06. Cake </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10%20.CSharp-While-Loop-Exercise/P07.%20Moving/Program.cs"> P07. Moving </a>
