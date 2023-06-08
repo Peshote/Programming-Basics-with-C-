@@ -114,3 +114,11 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10.%20CSharp-While-Loop-Exercise/P05.%20Coins/Program.cs"> P05. Coins </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10.%20CSharp-While-Loop-Exercise/P06.%20Cake/Program.cs"> P06. Cake </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/10.%20CSharp-While-Loop-Exercise/P07.%20Moving/Program.cs"> P07. Moving </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/11.%20CSharp-Nested-Loops-Lab"> 11. C# Nested Loops - Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P01.%20Clock/Program.cs"> P01. Clock </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P02.%20Multiplication%20Table/Program.cs"> P02. Multiplication Table </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P03.%20Combinations/Program.cs"> P03. Combinations </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P04.%20Sum%20of%20Two%20Numbers/Program.cs"> P04. Sum of Two Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P05.%20Travelling/Program.cs"> P05. Travelling </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P06.%20Building/Program.cs"> P06. Building </a>   
