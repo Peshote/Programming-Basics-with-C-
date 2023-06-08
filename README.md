@@ -121,4 +121,12 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P03.%20Combinations/Program.cs"> P03. Combinations </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P04.%20Sum%20of%20Two%20Numbers/Program.cs"> P04. Sum of Two Numbers </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P05.%20Travelling/Program.cs"> P05. Travelling </a>
-   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P06.%20Building/Program.cs"> P06. Building </a>   
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/11.%20CSharp-Nested-Loops-Lab/P06.%20Building/Program.cs"> P06. Building </a>
+   
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/12.%20CSharp-Nested-Loops-Exercise"> 12. C# Nested Loops - Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P01.%20Number%20Pyramid/Program.cs"> P01. Number Pyramid </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P02.%20Equal%20Sums%20Even%20Odd%20Position/Program.cs"> P02. Equal Sums Even Odd Position </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P03.%20Sum%20Prime%20Non%20Prime/Program.cs"> P03. Sum Prime Non Prime </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P04.%20Train%20The%20Trainers/Program.cs"> P04. Train The Trainers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P05.%20Special%20Numbers/Program.cs"> P05. Special Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P06.%20Cinema%20Tickets/Program.cs"> P06. Cinema Tickets </a>
