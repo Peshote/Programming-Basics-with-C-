@@ -130,3 +130,11 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P04.%20Train%20The%20Trainers/Program.cs"> P04. Train The Trainers </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P05.%20Special%20Numbers/Program.cs"> P05. Special Numbers </a>
    * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/12.%20CSharp-Nested-Loops-Exercise/P06.%20Cinema%20Tickets/Program.cs"> P06. Cinema Tickets </a>
+
+<a href="https://github.com/Peshote/Programming-Basics-with-CSharp/tree/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023"> 13. Programming Basics Online Pre - Exam - 18 and 19 February 2023 </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P01.%20Cat%20Diet/Program.cs"> P01. Cat Diet </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P02.%20Maiden%20Party/Program.cs"> P02. Maiden Party </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P03.%20Courier%20Express/Program.cs"> P03. Courier Express </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P04.%20Grandpa%20Stavri/Program.cs"> P04. Grandpa Stavri </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P05.%20Best%20Player/Program.cs"> P05. Best Player </a>
+   * <a href="https://github.com/Peshote/Programming-Basics-with-CSharp/blob/main/13.%20Programming%20Basics%20Online%20Pre%20-%20Exam%20-%2018%20and%2019%20February%202023/P06.%20Multiply%20Table/Program.cs"> P06. Multiply Table </a>
