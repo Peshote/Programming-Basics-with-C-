@@ -1,7 +1,7 @@
 # <p align="center"> Programming Basics with C# <p>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg?sanitize=true" alt="Software University Logo"></a>
-# <p align="center"> <a href="https://softuni.bg/trainings/3989/programming-basics-with-csharp-january-2023"> Programming Basics training Course with C# in SoftUni </a><p>
+# <p align="center"> <a href="https://softuni.bg/trainings/3989/programming-basics-with-csharp-january-2023"> Programming Basics Training Course with C# in SoftUni </a><p>
 
 ## ⚡Certificate
 <a href="https://softuni.bg/certificates/details/158366/caa45081" > Programming Basics with C# </a>
